@@ -10,7 +10,7 @@ A Diabetes Prediction WebApp using Machine Learning and Python.
   - streamlit
 
 * Data used:
-  - diabetes.csv
+  - Diabetes.csv
 
 * To run the project on terminal:
   - `source ~/.bash_profile`
